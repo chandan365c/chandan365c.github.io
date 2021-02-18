@@ -14,11 +14,17 @@
 | 8   | Math Case Study Question 08  | Statistics                          | [YouTube](https://youtu.be/UehmOMT0oXU  "YouTube")  |
 | 9   | Math Case Study Question 09  | Triangles                           | [YouTube](https://youtu.be/s7n7jTf9Acs  "YouTube")  |
 | 10  | Math Case Study Question 10  | Polynomials                         | [YouTube](https://youtu.be/l4-0VhrVu4w  "YouTube")  |
-|   |   |             |   |
 | 11  | Math Case Study Question 11  | Coordinate Geometry                 | [YouTube](https://youtu.be/gpiSHrUfdaI  "YouTube")  |
 | 12  | Math Case Study Question 12  | Statistics                          | [YouTube](https://youtu.be/nWBNvhe9HuQ  "YouTube")  |
 | 13  | Math Case Study Question 13  | Polynomials                         | [YouTube](https://youtu.be/ouDCTCUlOt0  "YouTube")  |
 | 14  | Math Case Study Question 14  | Statistics                          | [YouTube](https://youtu.be/zXYOqepWh4g  "YouTube")  |
-| 14  | Math Case Study Question 15  | Surface Areas & Volumes             | [YouTube](https://youtu.be/eRub6RNKSgk  "YouTube")  |
+| 15  | Math Case Study Question 15  | Surface Areas & Volumes             | [YouTube](https://youtu.be/eRub6RNKSgk  "YouTube")  |
+| 16  | Math Case Study Question 16  | Triangles                           | [YouTube](https://youtu.be/xS22inFWLtQ  "YouTube")  |
+| 17  | Math Case Study Question 17  | Triangles                           | [YouTube](https://youtu.be/VaDyX5axEzc  "YouTube")  |
+| 18  | Math Case Study Question 18  | Surface Areas & Volumes             | [YouTube](https://youtu.be/Ih0PV6ANHG0  "YouTube")  |
+| 19  | Math Case Study Question 19  | Linear Equations in two variables   | [YouTube](https://youtu.be/A9uoB5oYmb8  "YouTube")  |
+| 20  | Math Case Study Question 20  | Linear Equations in two variables   | [YouTube](https://youtu.be/DNX8XpY2q2g  "YouTube")  |
 |   |   |             |   |
+| 21  | Math Case Study Question 21  | Coordinate Geometry                 | [YouTube](https://youtu.be/gpiSHrUfdaI  "YouTube")  |
+
 
