@@ -30,5 +30,15 @@
 | 23  | Math Case Study Question 23  | Surface Areas & Volumes             | [YouTube](https://youtu.be/Ih0PV6ANHG0  "YouTube")  |
 | 24  | Math Case Study Question 24  | Arithmetic Progression              | [YouTube](https://youtu.be/Ih0PV6ANHG0  "YouTube")  |
 | 25  | Math Case Study Question 25  | Real Numbers                        | [YouTube](https://youtu.be/Ih0PV6ANHG0  "YouTube")  |
+| 26  | Math Case Study Question 26  | Triangles                           | [YouTube](https://youtu.be/VaDyX5axEzc  "YouTube")  |
+| 27  | Math Case Study Question 27  | Probability                         | [YouTube](https://youtu.be/VaDyX5axEzc  "YouTube")  |
+| 28  | Math Case Study Question 28  | Triangles                           | [YouTube](https://youtu.be/VaDyX5axEzc  "YouTube")  |
+| 29  | Math Case Study Question 29  | Coordinate Geometry                 | [YouTube](https://youtu.be/gpiSHrUfdaI  "YouTube")  |
+| 30  | Math Case Study Question 30  | Triangles                           | [YouTube](https://youtu.be/VaDyX5axEzc  "YouTube")  |
+| 31  | Math Case Study Question 31  | Probability                         | [YouTube](https://youtu.be/VaDyX5axEzc  "YouTube")  |
+| 32  | Math Case Study Question 32  | Statistics                          | [YouTube](https://youtu.be/zXYOqepWh4g  "YouTube")  |
+| 33  | Math Case Study Question 33  | Surface Areas & Volumes             | [YouTube](https://youtu.be/Ih0PV6ANHG0  "YouTube")  |
+| 34  | Math Case Study Question 34  | Some Applications of Trigonometry   | [YouTube](https://youtu.be/Ih0PV6ANHG0  "YouTube")  |
+| 35  | Math Case Study Question 35  | Coordinate Geometry                 | [YouTube](https://youtu.be/gpiSHrUfdaI  "YouTube")  |
 
 
