@@ -24,7 +24,6 @@
 | 18  | Math Case Study Question 18  | Surface Areas & Volumes             | [YouTube](https://youtu.be/Ih0PV6ANHG0  "YouTube")  |
 | 19  | Math Case Study Question 19  | Linear Equations in two variables   | [YouTube](https://youtu.be/A9uoB5oYmb8  "YouTube")  |
 | 20  | Math Case Study Question 20  | Linear Equations in two variables   | [YouTube](https://youtu.be/DNX8XpY2q2g  "YouTube")  |
-|   |   |             |   |
 | 21  | Math Case Study Question 21  | Coordinate Geometry                 | [YouTube](https://youtu.be/vdeEJBM-7Zc  "YouTube")  |
 | 22  | Math Case Study Question 22  | Linear Equations in two variables   | [YouTube](https://youtu.be/7N-EydKM2-E  "YouTube")  |
 | 23  | Math Case Study Question 23  | Surface Areas & Volumes             | [YouTube](https://youtu.be/7wc9USLYOYI  "YouTube")  |
