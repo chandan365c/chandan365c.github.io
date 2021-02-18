@@ -26,5 +26,9 @@
 | 20  | Math Case Study Question 20  | Linear Equations in two variables   | [YouTube](https://youtu.be/DNX8XpY2q2g  "YouTube")  |
 |   |   |             |   |
 | 21  | Math Case Study Question 21  | Coordinate Geometry                 | [YouTube](https://youtu.be/gpiSHrUfdaI  "YouTube")  |
+| 22  | Math Case Study Question 22  | Linear Equations in two variables   | [YouTube](https://youtu.be/DNX8XpY2q2g  "YouTube")  |
+| 23  | Math Case Study Question 23  | Surface Areas & Volumes             | [YouTube](https://youtu.be/Ih0PV6ANHG0  "YouTube")  |
+| 24  | Math Case Study Question 24  | Arithmetic Progression              | [YouTube](https://youtu.be/Ih0PV6ANHG0  "YouTube")  |
+| 25  | Math Case Study Question 25  | Real Numbers                        | [YouTube](https://youtu.be/Ih0PV6ANHG0  "YouTube")  |
 
 
